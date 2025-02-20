@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anon-marvin&label=Profile%20views&color=0e75b6&style=flat" alt="anon-marvin" /> </p>
 
-- 🔭 I’m currently working on **CyberSecurity Projects**
-
-- 🌱 I’m currently learning **React and Flutter**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **Web,React,Linux**
 
